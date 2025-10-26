@@ -252,3 +252,54 @@ A wireframe showing the booking process (from selecting a property to checkout) 
 
 Wireframes align perfectly with Agile and iterative design methodologies, allowing teams to design, test, and refine features in small, manageable steps.
 Each iteration can be tested for user feedback before moving forward, ensuring that the final product meets user expectations.
+
+
+# 5. Wireframing in Practice
+
+Wireframing in Practice
+
+Wireframing is not just a design exercise — it’s a problem-solving process that allows teams to identify and fix usability issues before development even begins. This proactive approach ensures that the final product is intuitive, efficient, and user-friendly.
+
+### Real-World Scenario: Property Booking Platform
+
+Imagine a software team developing a Property Booking Platform (similar to Airbnb). During the initial wireframing phase, designers created a low-fidelity wireframe in Figma to visualize the homepage, search flow, and booking process.
+
+When the team and potential users reviewed the wireframe, several usability issues became clear:
+
+- Search Confusion:
+Users struggled to understand where to input location, date, and number of guests. The search bar was not prominent enough.
+
+- Navigation Overload:
+Too many menu options on the top bar made the interface feel cluttered and overwhelming.
+
+- Unclear Booking Flow:
+The process to move from selecting a property to payment lacked clear step indicators, causing confusion about the booking progress.
+
+#### Resolution Through Wireframing
+
+Because these issues were discovered early in the wireframe stage, the team quickly made improvements before development began:
+
+The search bar was moved to the center of the homepage and given a larger, more visible design.
+
+The navigation menu was simplified into three main categories: Explore, Bookings, and Account.
+
+A progress indicator was added to the booking page to show users where they are in the process (e.g., “1. Select Property → 2. Confirm Details → 3. Payment”).
+
+After revising the wireframe, usability testing with mock users showed significant improvement in task completion speed and clarity.
+
+   #### Impact on the Final Product
+
+By addressing these problems during wireframing:
+
+Development time was reduced because fewer design-related changes were needed later.
+
+The user interface became cleaner and more intuitive.
+
+The overall user experience (UX) improved, leading to higher engagement and satisfaction after launch.
+
+The wireframe served as a visual blueprint for both designers and developers, ensuring that the final product aligned with user expectations.
+
+ Conclusion
+
+This scenario highlights how wireframing prevents usability issues before they reach production.
+By visualizing and testing design ideas early, teams can save time, reduce costs, and create products that truly serve users’ needs.

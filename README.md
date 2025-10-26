@@ -275,7 +275,7 @@ Too many menu options on the top bar made the interface feel cluttered and overw
 - Unclear Booking Flow:
 The process to move from selecting a property to payment lacked clear step indicators, causing confusion about the booking progress.
 
-#### Resolution Through Wireframing
+### Resolution Through Wireframing
 
 Because these issues were discovered early in the wireframe stage, the team quickly made improvements before development began:
 
@@ -287,17 +287,17 @@ A progress indicator was added to the booking page to show users where they are 
 
 After revising the wireframe, usability testing with mock users showed significant improvement in task completion speed and clarity.
 
-   #### Impact on the Final Product
+   ### Impact on the Final Product
 
 By addressing these problems during wireframing:
 
-Development time was reduced because fewer design-related changes were needed later.
+- Development time was reduced because fewer design-related changes were needed later.
 
-The user interface became cleaner and more intuitive.
+- The user interface became cleaner and more intuitive.
 
-The overall user experience (UX) improved, leading to higher engagement and satisfaction after launch.
+- The overall user experience (UX) improved, leading to higher engagement and satisfaction after launch.
 
-The wireframe served as a visual blueprint for both designers and developers, ensuring that the final product aligned with user expectations.
+- The wireframe served as a visual blueprint for both designers and developers, ensuring that the final product aligned with user expectations.
 
  Conclusion
 
